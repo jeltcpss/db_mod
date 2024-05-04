@@ -2,4 +2,15 @@
   "usuario": "jeltcpss",
   "senha": "123456",
   "status": "ativo"
+},
+{
+  "usuario": "jeltcpss1",
+  "senha": "123456",
+  "status": "ativo"
+},
+{
+  "usuario": "jeltcpss2",
+  "senha": "123456",
+  "status": "inativo"
 }
+
